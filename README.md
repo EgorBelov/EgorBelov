@@ -9,6 +9,12 @@
 </div>
 
 <br/>
+
+<div align="center">
+  <img src="./assets/portrait.svg" alt="Manga portrait panel — The Magician" width="100%"/>
+</div>
+
+<br/>
 <br/>
 
 <!-- ────────────────────────────────────────────────────────────────── -->
@@ -67,6 +73,12 @@
 ```
 
 <sub>&nbsp;&nbsp;&nbsp;<code>NOTE</code>&nbsp;&nbsp;Numbers are honest, not flattering. Skills decay if unused.</sub>
+
+<br/>
+
+<div align="center">
+  <img src="./assets/scene_yuta.svg" alt="Interlude — The Swordbearer" width="100%"/>
+</div>
 
 <br/>
 
@@ -194,6 +206,12 @@
   ─  Read the room before the spec.   Context is half the design.
   ─  Quiet code, loud results.        The work should speak first.
 ```
+
+<br/>
+
+<div align="center">
+  <img src="./assets/scene_suzuya.svg" alt="Interlude — The Stitched" width="100%"/>
+</div>
 
 <br/>
 
