@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" width="1200" height="340" role="img" aria-label="Hisoka Dsara — Business Analytics, AI Systems, Backend Development">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0a0a0a"/>
+      <stop offset="50%" stop-color="#000000"/>
+      <stop offset="100%" stop-color="#0a0a0a"/>
+    </linearGradient>
+    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#000000" stop-opacity="1"/>
+      <stop offset="60%" stop-color="#000000" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="hatch" patternUnits="userSpaceOnUse" width="6" height="6" patternTransform="rotate(45)">
+      <line x1="0" y1="0" x2="0" y2="6" stroke="#1a1a1a" stroke-width="1.4"/>
+    </pattern>
+    <pattern id="hatchLight" patternUnits="userSpaceOnUse" width="8" height="8" patternTransform="rotate(45)">
+      <line x1="0" y1="0" x2="0" y2="8" stroke="#2a2a2a" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="340" fill="url(#bg)"/>
+  <rect width="1200" height="340" fill="url(#hatch)" opacity="0.6"/>
+
+  <!-- Top & bottom panel rules -->
+  <line x1="0" y1="0.5" x2="1200" y2="0.5" stroke="#ffffff" stroke-opacity="0.9" stroke-width="1"/>
+  <line x1="0" y1="339.5" x2="1200" y2="339.5" stroke="#ffffff" stroke-opacity="0.9" stroke-width="1"/>
+
+  <!-- Manga panel divider -->
+  <line x1="780" y1="20" x2="780" y2="320" stroke="#ffffff" stroke-opacity="0.85" stroke-width="1.2"/>
+
+  <!-- Right panel hatching -->
+  <rect x="781" y="20" width="419" height="300" fill="url(#hatchLight)" opacity="0.5"/>
+  <rect x="781" y="20" width="419" height="300" fill="#000000" opacity="0.25"/>
+
+  <!-- Soft fade overlay on left -->
+  <rect x="0" y="0" width="780" height="340" fill="url(#fade)" opacity="0.6"/>
+
+  <!-- Chapter marker -->
+  <g transform="translate(60,72)">
+    <rect x="0" y="-22" width="14" height="2" fill="#ffffff"/>
+    <text x="22" y="-8" font-family="Courier New, Menlo, monospace" font-size="13" fill="#a0a0a0" letter-spacing="6">
+      CH.001 — ENTRANCE
+    </text>
+  </g>
+
+  <!-- Name -->
+  <text x="60" y="160" font-family="Georgia, 'Times New Roman', serif" font-weight="700" font-size="76" fill="#ffffff" letter-spacing="2">
+    HISOKA DSARA
+  </text>
+
+  <!-- Thin divider -->
+  <line x1="60" y1="186" x2="320" y2="186" stroke="#ffffff" stroke-width="1.2"/>
+
+  <!-- Roles -->
+  <text x="60" y="222" font-family="Courier New, Menlo, monospace" font-size="15" fill="#cfcfcf" letter-spacing="3">
+    BUSINESS ANALYTICS  ·  AI SYSTEMS  ·  BACKEND
+  </text>
+
+  <!-- Quote -->
+  <text x="60" y="280" font-family="Georgia, serif" font-style="italic" font-size="18" fill="#888888">
+    “ Expect nothing. Build everything. ”
+  </text>
+
+  <!-- Right panel content -->
+  <g transform="translate(820,60)">
+    <text font-family="Courier New, Menlo, monospace" font-size="11" fill="#6a6a6a" letter-spacing="4">PROFILE</text>
+    <line x1="0" y1="14" x2="40" y2="14" stroke="#6a6a6a" stroke-width="1"/>
+
+    <g font-family="Courier New, Menlo, monospace" font-size="12.5" fill="#dcdcdc">
+      <text y="48"><tspan fill="#6a6a6a">ALIAS    </tspan> hisoka.dsara</text>
+      <text y="76"><tspan fill="#6a6a6a">ROLE     </tspan> Systems Architect</text>
+      <text y="104"><tspan fill="#6a6a6a">FOCUS    </tspan> AI / Analytics</text>
+      <text y="132"><tspan fill="#6a6a6a">ARC      </tspan> EventMind</text>
+      <text y="160"><tspan fill="#6a6a6a">STATUS   </tspan> <tspan fill="#ffffff">▮▮▮▮▮▮▯▯</tspan> 75%</text>
+    </g>
+
+    <text y="226" font-family="Courier New, Menlo, monospace" font-size="10" fill="#5a5a5a" letter-spacing="3">
+      // SIGNAL OVER NOISE
+    </text>
+  </g>
+
+  <!-- Corner markings -->
+  <g stroke="#ffffff" stroke-width="1.2" fill="none">
+    <path d="M 0 20 L 20 20 L 20 0"/>
+    <path d="M 1200 320 L 1180 320 L 1180 340"/>
+  </g>
+</svg>
