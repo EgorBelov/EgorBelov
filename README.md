@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/header.svg" alt="Hisoka Dsara — Business Analytics · AI Systems · Backend Development" width="100%"/>
+  <img src="./assets/header.svg" alt="Hisoka — Business Analytics · AI Systems · Backend Development" width="100%"/>
 </div>
 
 <br/>
@@ -11,7 +11,7 @@
 <br/>
 
 <div align="center">
-  <img src="./assets/portrait.svg" alt="Manga portrait panel — The Magician" width="100%"/>
+  <img src="./assets/frame_portrait_hisoka.svg" alt="Ch.001 — The Magician · silence is a strategy" width="46%"/>
 </div>
 
 <br/>
@@ -23,7 +23,7 @@
 ```txt
 ┌──────────────────────────────────────────────────────────────────────────┐
 │                                                                          │
-│   NAME          Hisoka Dsara                                             │
+│   NAME          Hisoka                                                   │
 │   ROLE          Backend Engineer  ·  Analyst  ·  AI Systems Architect    │
 │   LEVEL         ▮ ▮ ▮ ▮ ▮ ▮ ▮ ▯ ▯ ▯       Mid-Boss                       │
 │   CURRENT ARC   EventMind  —  intelligent event orchestration            │
@@ -75,11 +75,13 @@
 <sub>&nbsp;&nbsp;&nbsp;<code>NOTE</code>&nbsp;&nbsp;Numbers are honest, not flattering. Skills decay if unused.</sub>
 
 <br/>
+<br/>
 
 <div align="center">
-  <img src="./assets/scene_yuta.svg" alt="Interlude — The Swordbearer" width="100%"/>
+  <img src="./assets/frame_yuta.svg" alt="Ch.002 — The Swordbearer · discipline before damage" width="42%"/>
 </div>
 
+<br/>
 <br/>
 
 <!-- ────────────────────────────────────────────────────────────────── -->
@@ -167,6 +169,14 @@
 <sub>&nbsp;&nbsp;&nbsp;<code>ARCHIVE</code>&nbsp;&nbsp;Full repository list →&nbsp;<a href="https://github.com/EgorBelov?tab=repositories">github.com/EgorBelov</a></sub>
 
 <br/>
+<br/>
+
+<div align="center">
+  <img src="./assets/frame_ayanokoji.svg" alt="Ch.003 — The Strategist · the loudest move is the one you do not make" width="42%"/>
+</div>
+
+<br/>
+<br/>
 
 <!-- ────────────────────────────────────────────────────────────────── -->
 ## &nbsp;&nbsp;`V.`&nbsp;&nbsp;TELEMETRY
@@ -208,11 +218,13 @@
 ```
 
 <br/>
+<br/>
 
 <div align="center">
-  <img src="./assets/scene_suzuya.svg" alt="Interlude — The Stitched" width="100%"/>
+  <img src="./assets/frame_suzuya.svg" alt="Ch.004 — The Stitched · every scar is a line of changelog" width="42%"/>
 </div>
 
+<br/>
 <br/>
 
 <!-- ────────────────────────────────────────────────────────────────── -->
@@ -223,6 +235,13 @@
   EMAIL      available on request
   STATUS     open to interesting problems  ·  not open to noise
 ```
+
+<br/>
+<br/>
+
+<div align="center">
+  <img src="./assets/frame_face_hisoka.svg" alt="Ch.005 — Curtain · the work should speak first" width="42%"/>
+</div>
 
 <br/>
 <br/>

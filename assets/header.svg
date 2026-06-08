@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" width="1200" height="340" role="img" aria-label="Hisoka Dsara — Business Analytics, AI Systems, Backend Development">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" width="1200" height="340" role="img" aria-label="Hisoka — Business Analytics, AI Systems, Backend Development">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0%" stop-color="#0a0a0a"/>
@@ -44,8 +44,8 @@
   </g>
 
   <!-- Name -->
-  <text x="60" y="160" font-family="Georgia, 'Times New Roman', serif" font-weight="700" font-size="76" fill="#ffffff" letter-spacing="2">
-    HISOKA DSARA
+  <text x="60" y="160" font-family="Georgia, 'Times New Roman', serif" font-weight="700" font-size="76" fill="#ffffff" letter-spacing="4">
+    HISOKA
   </text>
 
   <!-- Thin divider -->
@@ -67,7 +67,7 @@
     <line x1="0" y1="14" x2="40" y2="14" stroke="#6a6a6a" stroke-width="1"/>
 
     <g font-family="Courier New, Menlo, monospace" font-size="12.5" fill="#dcdcdc">
-      <text y="48"><tspan fill="#6a6a6a">ALIAS    </tspan> hisoka.dsara</text>
+      <text y="48"><tspan fill="#6a6a6a">ALIAS    </tspan> hisoka</text>
       <text y="76"><tspan fill="#6a6a6a">ROLE     </tspan> Systems Architect</text>
       <text y="104"><tspan fill="#6a6a6a">FOCUS    </tspan> AI / Analytics</text>
       <text y="132"><tspan fill="#6a6a6a">ARC      </tspan> EventMind</text>
