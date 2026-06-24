@@ -44,9 +44,9 @@
 
 ```txt
   ARC 01  ░  EventMind                  →  Event intelligence platform
-  ARC 02  ░  AI Recommendation Systems  →  Behavior → preference → action
-  ARC 03  ░  LangGraph Agents           →  Stateful reasoning, not chat
-  ARC 04  ░  FastAPI Services           →  Fast, typed, boring on purpose
+  ARC 02  ░  Multi-Agent Swarm          →  Stateful reasoning, not chat
+  ARC 03  ░  AI Research Assistant      →  Multi-source research automation
+  ARC 04  ░  School Address Service     →  Typed, fast, boring on purpose
   ARC 05  ░  G4Z Cup                    →  Competitive analytics, live ops
 ```
 
@@ -58,18 +58,19 @@
 ## &nbsp;&nbsp;`III.`&nbsp;&nbsp;SKILL&nbsp;&nbsp;TREE
 
 ```txt
-  Python              ██████████████████████   99
-  FastAPI             █████████████████████░   95
-  AI / LLM Systems    ████████████████████░░   93
-  LangGraph / Agents  ███████████████████░░░   88
-  Data Analytics      █████████████████████░   96
-  SQL  / PostgreSQL   █████████████████████░   94
-  Pandas / NumPy      ████████████████████░░   92
-  Docker / Compose    ███████████████████░░░   88
-  System Design       ███████████████████░░░   87
-  Linux / Bash        ██████████████████░░░░   84
-  Git / CI Workflows  ███████████████████░░░   88
-  Observability       █████████████████░░░░░   80
+  Python              ████████████████████░░   90
+  FastAPI             ███████████████████░░░   85
+  Data Analytics      ███████████████████░░░   86
+  SQL  / PostgreSQL   ███████████████████░░░   84
+  Pandas / NumPy      ██████████████████░░░░   83
+  AI / LLM Systems    ██████████████████░░░░   82
+  LangGraph / Agents  █████████████████░░░░░   78
+  Docker / Compose    █████████████████░░░░░   78
+  Git / CI Workflows  █████████████████░░░░░   78
+  System Design       █████████████████░░░░░   76
+  TypeScript          ████████████████░░░░░░   72
+  Linux / Bash        ████████████████░░░░░░   74
+  Observability       ███████████████░░░░░░░   70
 ```
 
 <sub>&nbsp;&nbsp;&nbsp;<code>NOTE</code>&nbsp;&nbsp;Numbers are honest, not flattering. Skills decay if unused.</sub>
@@ -106,6 +107,8 @@
 └──────────────────────────────────┘
 ```
 
+<sub>&nbsp;&nbsp;&nbsp;<a href="https://github.com/EgorBelov/event_mind">→ github.com/EgorBelov/event_mind</a></sub>
+
 </td>
     <td width="50%" valign="top">
 
@@ -119,10 +122,12 @@
 │  operator dashboards.            │
 │                                  │
 │  STACK   Python · SQL · Pandas   │
-│          FastAPI · React         │
+│          FastAPI · TypeScript    │
 │  STATE   in production           │
 └──────────────────────────────────┘
 ```
+
+<sub>&nbsp;&nbsp;&nbsp;<a href="https://github.com/EgorBelov/g4z-cup-site">→ github.com/EgorBelov/g4z-cup-site</a></sub>
 
 </td>
   </tr>
@@ -131,12 +136,12 @@
 
 ```txt
 ┌──────────────────────────────────┐
-│  ◤  LANGGRAPH AGENTS             │
+│  ◤  MULTI-AGENT SWARM            │
 ├──────────────────────────────────┤
-│  Stateful, goal-directed agents  │
-│  built as graphs — not chat.     │
-│  Used inside analytics and       │
-│  recommendation flows.           │
+│  Coordinated agent network with  │
+│  role-based routing and shared   │
+│  state — built as graphs,        │
+│  not chat.                       │
 │                                  │
 │  STACK   LangGraph · LLMs        │
 │          FastAPI · Postgres      │
@@ -144,23 +149,27 @@
 └──────────────────────────────────┘
 ```
 
+<sub>&nbsp;&nbsp;&nbsp;<a href="https://github.com/EgorBelov/multi-agent-swarm">→ github.com/EgorBelov/multi-agent-swarm</a></sub>
+
 </td>
     <td width="50%" valign="top">
 
 ```txt
 ┌──────────────────────────────────┐
-│  ◤  RECOMMENDATION CORE          │
+│  ◤  AI RESEARCH ASSISTANT        │
 ├──────────────────────────────────┤
-│  Behavior-driven recommendation  │
-│  engine — embeddings, scoring,   │
-│  and ranking, with a quiet,      │
-│  explainable interface.          │
+│  Automated research pipeline —   │
+│  retrieval, synthesis, and       │
+│  structured output from          │
+│  multi-source queries.           │
 │                                  │
-│  STACK   Python · Embeddings     │
-│          PostgreSQL · FastAPI    │
-│  STATE   internal alpha          │
+│  STACK   Python · LLMs           │
+│          FastAPI · LangGraph     │
+│  STATE   active                  │
 └──────────────────────────────────┘
 ```
+
+<sub>&nbsp;&nbsp;&nbsp;<a href="https://github.com/EgorBelov/ai_research_assistant">→ github.com/EgorBelov/ai_research_assistant</a></sub>
 
 </td>
   </tr>
